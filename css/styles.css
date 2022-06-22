@@ -1,0 +1,46 @@
+body {
+   background-color: blanchedalmond;
+}
+
+.container-fluid {
+  background-color: blanchedalmond;
+}
+
+.bg-light {
+  --bs-bg-opacity: 0;
+}
+
+.middle_container {
+  text-align: center;
+}
+
+.middle_container {
+ padding-top: 100px;
+}
+#aboutMe {
+  text-align: center;
+  padding: 50px;
+}
+.image {
+  background-color: aqua;
+  border-radius: 50px;
+  width: 500px;
+  height: 500px;
+}
+
+.enquiryButton {
+  border-radius: 50px;
+  background-color: aqua;
+}
+.email_container , .gender_container, .phoneNumber_container{
+  padding-top: 20px;
+}
+
+h1 {
+  font-size: 90px;
+}
+
+h5 {
+  font-size: 30px;
+  font-style: italic;
+}
