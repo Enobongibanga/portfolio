@@ -1,6 +1,6 @@
 # portfolio 
 
-A HTML/CSS application that helps dogs meet new and interesting dogs nearby.
+A Portfolio
 
 ## Preview Link
 https://enobongibanga.github.io/portfolio/
